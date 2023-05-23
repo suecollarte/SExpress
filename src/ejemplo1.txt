@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "codigo": "Xbox One X",
+    "description": "CAMBIADO",
+    "title": "title 1",
+    "stock": 1,
+    "thumbail": "https://www.shutterstock.com/image-vector/black-yellow-grunge-modern-thumbnail-600w-2098712566.jpg",
+    "price": 499.99,
+    "discount": 0.1
+  },
+  {
+    "id": 1,
+    "codigo": "Nintendo Switch",
+    "description": "descripcion producto",
+    "title": "title 1",
+    "stock": 4,
+    "thumbail": "https://www.shutterstock.com/image-vector/black-yellow-grunge-modern-thumbnail-600w-2098712566.jpg",
+    "price": 299.99
+  },
+  {
+    "id": 2,
+    "codigo": "PS2 Console",
+    "description": "descripcion producto",
+    "title": "title 1",
+    "stock": 1,
+    "thumbail": "https://www.shutterstock.com/image-vector/black-yellow-grunge-modern-thumbnail-600w-2098712566.jpg",
+    "price": 299.99,
+    "discount": 0.8
+  },
+  {
+    "id": 3,
+    "codigo": "Nintendo 64",
+    "description": "descripcion producto",
+    "title": "title 1",
+    "stock": 2,
+    "thumbail": "https://www.shutterstock.com/image-vector/black-yellow-grunge-modern-thumbnail-600w-2098712566.jpg",
+    "price": 199.99,
+    "discount": 0.65
+  },
+  {
+    "id": 4,
+    "codigo": "Nintendo 646",
+    "description": "descripcion producto",
+    "title": "title 1",
+    "stock": 2,
+    "thumbail": "https://www.shutterstock.com/image-vector/black-yellow-grunge-modern-thumbnail-600w-2098712566.jpg",
+    "price": 199.99,
+    "discount": 0.65
+  }
+]
